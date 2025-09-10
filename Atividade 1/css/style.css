@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#cabecalho{
+    height: 10vh;
+    width: 100vw;
+    background-color: #ff6600 ;
+    position: absolute;
+}
+#cabecalho h1 {
+    color: #fff;
+    margin-top: 3vh;
+    margin-left: 3vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+}
+nav {
+    text-align: right;
+    word-spacing: 15px;
+    margin-top: -4vh;
+    margin-right: 2vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 16px;
+}
+#imagem img{
+    height: 150vh;
+    width: 100vw;
+    background-color: red;
+    position: absolute;
+    margin-top: 10vh;
+}
+#botoes{
+    height: 30vh;
+    width: 100vw;
+    margin-top: 150vh; 
+}
+#botao1{
+    position: absolute;
+    margin-left: 10vw;
+    background-color: #ff6600;
+    height: 10vh;
+    width: 20vw;
+    margin-top: 100px;
+    border-radius: 5px;
+}
+#botao1 h3{
+    position: absolute;
+    margin-left: 35%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    margin-top: 2%;  
+}
+#botao1 p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    margin-top: 10%;
+    margin-left:16%;
+}
+#botao2{
+    position: absolute;
+    margin-left: 41vw;
+    background-color: #ff6600;
+    height: 10vh;
+    width: 20vw;
+    margin-top: 100px;
+    border-radius: 5px;
+    margin-bottom: 20vh;
+}#botao2 h3{
+    position: absolute;
+    margin-left: 35%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    margin-top: 2%;
+}
+#botao2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    margin-top: 10%;
+    margin-left:16%;
+}
+#botao3{
+    height: 10vh;
+    width: 20vw;
+    background-color: #ff6600;
+    margin-left: 70vw;
+    position:absolute;
+    margin-top: 14vh;
+    border-radius: 5px;
+}
+#botao3 h3{
+    position: absolute;
+    margin-left: 35%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    margin-top: 2%;
+}
+#botao3 p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    margin-top: 10%;
+    margin-left:16%;
+}
+#rodape{
+    height: 22vh;
+    width: 100vw;
+    background-color: #eeeeee;
+}
+#centro{
+    height: 5vh;
+    width: 10vw;
+    background-color: #ff6600;
+    margin: auto;
+}
+#sobrenos{
+    height: 100%;
+    width: 30%;
+    margin-left: 35%;
+}
+#sobrenos h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000;
+    font-size: 28px;
+    margin-left: 37%;
+}
+.imagenes{
+    width: 5vh;
+    height: 5vh;
+    margin-left: 4vw;
+    margin-top: 2vh;
+}
+#rodape p{
+    margin-left: 4vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-top: 1vh;
+}
+#final{
+    width: 100vw;
+    height: 9vh;
+    background-color: #000;
+}
+#final p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    margin-left: 39%;
+   position: absolute;
+   margin-top: 1%;
+}
+#imagem h2{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 16px;
+    margin-top: 70vh;
+    margin-left: 43vw;
+}
+#oferecemos{
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 16px;
+    margin-top: 74vh;
+    margin-left: 36vw;
+}
+#saibamais{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #fff;
+    position: absolute;
+    margin-top: 78vh;
+    margin-left: 46vw;
+}
